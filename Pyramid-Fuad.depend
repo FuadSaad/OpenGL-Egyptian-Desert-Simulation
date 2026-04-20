@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1776687063 source:d:\1.spring 2026\2. final exam\4. computer graphics lab\pyramid-fuad\main.cpp
+1776703934 source:d:\1.spring 2026\2. final exam\4. computer graphics lab\pyramid-fuad\main.cpp
 	<GL/glut.h>
 	<math.h>
 	<stdio.h>
